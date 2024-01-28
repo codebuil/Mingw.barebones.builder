@@ -8,3 +8,5 @@ https://github.com/CosmosOS/Cosmos/tree/master/Build/Tools/cygwin
 
 http://download.savannah.gnu.org/releases/tinycc/
 
+
+https://sourceforge.net/projects/spcc/
