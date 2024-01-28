@@ -10,3 +10,8 @@ http://download.savannah.gnu.org/releases/tinycc/
 
 
 https://sourceforge.net/projects/spcc/
+
+https://sourceforge.net/projects/mingw/
+
+
+
