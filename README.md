@@ -53,5 +53,6 @@ https://sourceforge.net/projects/flisomaker/
 
 https://sourceforge.net/projects/nasm/
 
+https://www.nasm.us/pub/nasm/releasebuilds/?C=M;O=D
 
 
